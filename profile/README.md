@@ -12,7 +12,13 @@ Wekyt is two things in one place.
 
 Tools live in one shared store, apart from the agents. No agent owns a tool. Each agent finds the tool it needs by its description when the task calls for it, and each role has its own permissions. The QA agent, for example, cannot open a pull request even though the tool exists. Least privilege by role, not by trust.
 
-The installer is being built now. The exact command will be here as soon as it works.
+Install it with one command:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/wekyt/hub/main/install.sh | bash
+```
+
+It installs the dev team into an `ai/` folder in your current project. No git clone, no npm.
 
 **2. Shared skills and tools.** The same org holds the skills, prompts, and repos shared in the Píldora Tech videos. Those are separate repos you can browse, copy, or clone. They are not part of what the command installs.
 
@@ -32,7 +38,13 @@ Wekyt son dos cosas en un solo lugar.
 
 Las herramientas viven en un almacén compartido, aparte de los agentes. Ningún agente es dueño de una herramienta. Cada agente busca la que necesita por su descripción cuando la tarea lo pide, y cada rol tiene sus propios permisos. El agente de QA, por ejemplo, no puede abrir un pull request aunque la herramienta exista. Mínimo privilegio por rol, no por confianza.
 
-El instalador se está construyendo ahora. El comando exacto estará aquí apenas funcione.
+Instalalo con un comando:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/wekyt/hub/main/install.sh | bash
+```
+
+Instala el equipo dev en una carpeta `ai/` dentro de tu proyecto. Sin git clone, sin npm.
 
 **2. Skills y herramientas compartidas.** La misma org guarda las skills, los prompts y los repos que se comparten en los videos de Píldora Tech. Son repos aparte que se pueden ver, copiar o clonar. No son parte de lo que instala el comando.
 
