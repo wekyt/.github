@@ -15,10 +15,16 @@ Tools live in one shared store, apart from the agents. No agent owns a tool. Eac
 Install it with one command:
 
 ```bash
+npx wekyt
+```
+
+Or, without npm:
+
+```bash
 curl -fsSL https://raw.githubusercontent.com/wekyt/hub/main/install.sh | bash
 ```
 
-It installs the dev team into an `ai/` folder in your current project. No git clone, no npm.
+It installs the dev team into an `ai/` folder in your current project. No git clone.
 
 **2. Shared skills and tools.** The same org holds the skills, prompts, and repos shared in the Píldora Tech videos. Those are separate repos you can browse, copy, or clone. They are not part of what the command installs.
 
@@ -41,10 +47,16 @@ Las herramientas viven en un almacén compartido, aparte de los agentes. Ningún
 Instalalo con un comando:
 
 ```bash
+npx wekyt
+```
+
+O, sin npm:
+
+```bash
 curl -fsSL https://raw.githubusercontent.com/wekyt/hub/main/install.sh | bash
 ```
 
-Instala el equipo dev en una carpeta `ai/` dentro de tu proyecto. Sin git clone, sin npm.
+Instala el equipo dev en una carpeta `ai/` dentro de tu proyecto. Sin git clone.
 
 **2. Skills y herramientas compartidas.** La misma org guarda las skills, los prompts y los repos que se comparten en los videos de Píldora Tech. Son repos aparte que se pueden ver, copiar o clonar. No son parte de lo que instala el comando.
 
