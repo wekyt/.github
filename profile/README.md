@@ -4,7 +4,7 @@
 
 Wekyt is two things in one place.
 
-**1. The hub.** One command installs a small team of specialized agents, orchestrator, architect, dev, QA, security, that plan, build, test, and maintain software together, checking each other's work. The human only clicks merge.
+**1. The hub.** One command installs a small team of specialized agents, orchestrator, architect, dev, QA, security, that plan, build, test, and maintain software together, checking each other's work. No human in the loop. When every layer agrees, the merge happens on its own.
 
 - **Lightweight:** a default team of 5 agents, plain Markdown files, no framework.
 - **Zero friction:** one command, zero questions. The standard decides; you edit a file afterwards if you want.
@@ -24,7 +24,7 @@ Building now. The first public piece is the hub itself: skills, agent teams, and
 
 Wekyt son dos cosas en un solo lugar.
 
-**1. El hub.** Un comando instala un equipo pequeño de agentes especializados, orquestador, arquitecto, dev, QA, seguridad, que planean, construyen, prueban y mantienen software juntos, verificándose entre sí. El humano solo hace clic en merge.
+**1. El hub.** Un comando instala un equipo pequeño de agentes especializados, orquestador, arquitecto, dev, QA, seguridad, que planean, construyen, prueban y mantienen software juntos, verificándose entre sí. Ningún humano en el loop. Cuando todas las capas acuerdan, el merge pasa solo.
 
 - **Liviano:** un equipo por defecto de 5 agentes, archivos Markdown, sin framework.
 - **Cero fricción:** un comando, cero preguntas.
